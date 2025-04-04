@@ -1,0 +1,8 @@
+telethon
+gspread
+oauth2client
+opencv-python
+mediapipe
+requests
+python-dotenv
+numpy
